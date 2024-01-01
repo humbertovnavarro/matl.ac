@@ -5,9 +5,19 @@
 	<description>Recent content on matl.ac</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-US</language>
+	<lastBuildDate>Sun, 31 Dec 2023 19:00:00 -0500</lastBuildDate>
     
         <atom:link href="https://matl.ac/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Blog</title>
+		<link>https://matl.ac/blog/</link>
+		<pubDate>Sun, 31 Dec 2023 19:00:00 -0500</pubDate>
+		
+		<guid>https://matl.ac/blog/</guid>
+		<description></description>
+	</item>
 	
 	<item>
 		<title>Attic</title>
@@ -54,15 +64,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.theovon.com/&#34;&gt;This Past Weekend with Theo Von&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-	</item>
-	
-	<item>
-		<title>Blog</title>
-		<link>https://matl.ac/blog/</link>
-		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-		
-		<guid>https://matl.ac/blog/</guid>
-		<description></description>
 	</item>
 	
 	</channel>

@@ -3,10 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://matl.ac/</loc>
+    <lastmod>2023-12-31T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://matl.ac/attic/</loc>
+    <loc>https://matl.ac/blog/2023/</loc>
+    <lastmod>2023-12-31T19:00:00-05:00</lastmod>
   </url><url>
     <loc>https://matl.ac/blog/</loc>
+    <lastmod>2023-12-31T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://matl.ac/blog/goals/</loc>
+    <lastmod>2023-12-31T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://matl.ac/blog/life/</loc>
+    <lastmod>2023-12-31T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://matl.ac/year-in-review-2023/</loc>
+    <lastmod>2023-12-31T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://matl.ac/attic/</loc>
   </url>
 </urlset>
